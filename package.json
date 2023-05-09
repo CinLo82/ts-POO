@@ -1,0 +1,23 @@
+{
+  "name": "ts-poo",
+  "version": "1.0.0",
+  "description": "¡Aprende programación orientada a objetos con TypeScript! Implementa los pilares de la POO y patrones de diseño como el Singleton. Trabaja con promesas para consumir APIs REST y aplica Generics en tus clases y métodos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CinLo82/ts-POO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CinLo82/ts-POO/issues"
+  },
+  "homepage": "https://github.com/CinLo82/ts-POO#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
