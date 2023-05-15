@@ -1,6 +1,6 @@
 import axios from "axios";
 
-import { Product } from "./models/product.models";
+import { Product } from "./models/product.model";
 
 (async() => {
 
