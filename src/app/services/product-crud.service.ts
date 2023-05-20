@@ -8,7 +8,7 @@ export class ProductCRUDService {
   private http = new ProductHttpService(this.url);
 
   async update(id: Product['id'], dto: UpdateProductDto) {
-    this.http.otroRequest
+   // Validate(dto);
     return this.http.update(id, dto);
   }
 }
